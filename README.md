@@ -22,14 +22,47 @@ It also includes an Admin Panel where the admin can manage products, users, and 
 
 ## 🛠 Tech Stack
 
-* Frontend: React.js
-* Backend: Node.js + Express.js
-* Database: MongoDB
-* Authentication: JWT
-* Styling: CSS / Bootstrap / Tailwind (if used)
+**Frontend:** React.js
+**Backend:** Node.js + Express.js
+**Database:** MongoDB
+**Authentication:** JWT
+**Styling:** CSS / Bootstrap / Tailwind
+
+---
+
+## 📂 Project Structure
+
+/client → React Frontend
+/server → Node + Express Backend
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+git clone https://github.com/Ajayvyas19/flipzy_toystore_MERNSTACK.git
+
+### 2️⃣ Backend Setup
+
+cd server
+npm install
+npm start
+
+### 3️⃣ Frontend Setup
+
+cd client
+npm install
+npm start
 
 ---
 
 ## 🎯 Project Purpose
 
 This project was built to demonstrate full-stack development skills using the MERN Stack and to understand real-world eCommerce application architecture.
+
+---
+
+## 👨‍💻 Author
+
+**Ajay Vyas**
